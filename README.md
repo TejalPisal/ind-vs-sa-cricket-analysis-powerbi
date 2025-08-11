@@ -43,7 +43,10 @@ The dashboard allows users to **select a player** from a slicer and view **batti
 
 ---
 
-## 📷 Dashboard Previews
-![Batting Dashboard](D:\data_analyst_notes\ESPN_Project\Batting Data Analysis Dashboard.png)  
-![Bowling Dashboard](D:\data_analyst_notes\ESPN_Project\Bowling Data Analysis Dashboard.png)  
-![Fielding Dashboard](D:\data_analyst_notes\ESPN_Project\Fielding Data Analysis Dashboard.png)
+## Dashboard Previews
+### Batting Data Analysis Dashboard
+![Batting Dashboard](https://github.com/TejalPisal/ind-vs-sa-cricket-analysis-powerbi/blob/main/Batting%20Data%20Analysis%20Dashboard.png)  
+### Bowling Data Analysis Dashboard
+![Bowling Dashboard](https://github.com/TejalPisal/ind-vs-sa-cricket-analysis-powerbi/blob/main/Bowling%20Data%20Analysis%20Dashboard.png)  
+### Fielding Data Analysis Dashboard
+![Fielding Dashboard](https://github.com/TejalPisal/ind-vs-sa-cricket-analysis-powerbi/blob/main/Fielding%20Data%20Analysis%20Dashboard.png)
